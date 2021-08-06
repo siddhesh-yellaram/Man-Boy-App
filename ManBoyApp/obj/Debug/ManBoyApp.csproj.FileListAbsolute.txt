@@ -1,0 +1,7 @@
+D:\test\.NET\ManBoyApp\bin\Debug\ManBoyApp.exe.config
+D:\test\.NET\ManBoyApp\bin\Debug\ManBoyApp.exe
+D:\test\.NET\ManBoyApp\bin\Debug\ManBoyApp.pdb
+D:\test\.NET\ManBoyApp\obj\Debug\ManBoyApp.csproj.AssemblyReference.cache
+D:\test\.NET\ManBoyApp\obj\Debug\ManBoyApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\ManBoyApp\obj\Debug\ManBoyApp.exe
+D:\test\.NET\ManBoyApp\obj\Debug\ManBoyApp.pdb
